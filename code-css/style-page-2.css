@@ -1,0 +1,40 @@
+body
+{
+	background-image:url("../image/hiver-avec-un-tank.jpg");
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+	}
+
+h1
+{
+	text-align: center;
+	}
+
+h2
+{
+	text-align: center;
+	}
+
+p
+{
+	text-align: center;
+	color: darkblue;
+	}
+
+ul
+{
+	text-align: center;
+	color: black;
+	}
+
+a
+{
+	color: white;
+	}
+
+#alignage
+{
+	text-align: left;
+	}
